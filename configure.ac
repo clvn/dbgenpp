@@ -1,0 +1,5 @@
+AC_INIT([dbgenpp], [0.2])
+AM_INIT_AUTOMAKE
+AC_CONFIG_FILES([Makefile])
+AC_CONFIG_SUBDIRS([src])
+AC_OUTPUT
